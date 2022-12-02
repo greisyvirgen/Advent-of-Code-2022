@@ -1,4 +1,4 @@
-# Greisy Virgen Larios
+# Greisy Virgen
 
 # In case the Elves get hungry and need extra snacks, they need to know which Elf
 # to ask: they'd like to know how many Calories are being carried by the Elf carrying
