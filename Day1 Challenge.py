@@ -28,3 +28,7 @@ def calorie_count():
 
     file.close()
     return max(stats.values())
+
+
+if __name__ == "__main__":
+    print(calorie_count())
